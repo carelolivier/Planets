@@ -1,1 +1,2 @@
 Mars is red and we will edit this file to get proper information
+Mars is the closest planet to earth
