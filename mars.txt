@@ -1,2 +1,3 @@
-Mars is red and we will edit this file to get proper information
-Mars is the closest planet to earth
+Mars is red.
+Mars is the closest planet to earth.
+First spacecrafts landed on Mars.
